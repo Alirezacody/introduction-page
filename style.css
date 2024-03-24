@@ -7,8 +7,19 @@
 
 .top-menu{
     height:50px;
-    text-align: center;
+     text-align: left;
 }
+
+.top-menu a{
+    text-decoration: none !important;
+    transition: all 700ms;
+}
+
+.top-menu a:hover{
+    color:rgb(25,135,84) !important;
+}
+
+
 
 .list-unstyled li a{
     text-decoration: none;
@@ -16,6 +27,15 @@
     padding:0 10px !important;
 }
 
+
+.profile{
+    width:50px;
+    height:50px;
+}
+
+.profile img:hover{
+    filter:opacity(0.6);
+}
 
 .intro2{
     text-align: center;
@@ -30,12 +50,13 @@
     height: 560px;
 }
 
+
 .text{
     text-align: center;
 }
 
 .img-ali{
-    border-top:3px solid rgb(255, 213, 0);
+    border-top:3px solid rgb(25,135,84);
     border-right:3px solid rgb(220,53,69);
     border-bottom: 3px solid rgb(13,202,240);
 }
@@ -50,4 +71,13 @@
 
 .Service{
     margin-top:100px !important;
+}
+
+.ABOUT-header{
+    margin-top: 350px !important;
+}
+
+.git-git a{
+    text-decoration:none;
+    font-size: 0.9em;
 }
