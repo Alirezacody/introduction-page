@@ -1,0 +1,45 @@
+
+
+@media screen and (min-width:150px) and (max-width:950px) {
+
+    .frount-end{
+    margin-left:0px !important;
+}
+}
+
+@media screen and (min-width:150px) and (max-width:950px) {
+
+    .work{
+    margin-left:0px !important;
+}
+}
+
+
+
+@media screen and (min-width:150px) and (max-width:950px) {
+    .img-ali{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+}
+
+
+.alireza-img{
+    padding: 0 !important;
+    margin:0 !important;
+}
+
+@media screen and (min-width:150px) and (max-width:950px) {
+    .alireza-img{
+        padding: 0 !important;
+        margin:0 !important;
+    }
+}
+
+/* .list-unstyled li a */
+@media screen and (min-width:150px) and (max-width:950px) {
+    .list-unstyled li a{
+        padding:5px !important;
+    }
+}
+
