@@ -1,7 +1,7 @@
 *{
     margin:0 !important;
     padding:0 !important;
-    box-sizing:border-box;
+    box-sizing:border-box !important;
 }
 
 
@@ -88,4 +88,12 @@ a{
 
 .coding-picture{
     height: 450px !important;
+}
+
+.myskills-part{
+    margin-top:350px !important;
+}
+
+.text-1{
+    text-align:  right !important;
 }
