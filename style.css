@@ -27,6 +27,9 @@
     padding:0 10px !important;
 }
 
+a{
+    text-decoration: none !important;
+}
 
 .profile{
     width:50px;
@@ -80,4 +83,9 @@
 .git-git a{
     text-decoration:none;
     font-size: 0.9em;
+}
+
+
+.coding-picture{
+    height: 450px !important;
 }
