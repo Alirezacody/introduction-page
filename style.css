@@ -58,11 +58,6 @@ a{
     text-align: center;
 }
 
-.img-ali{
-    border-top:3px solid rgb(25,135,84);
-    border-right:3px solid rgb(220,53,69);
-    border-bottom: 3px solid rgb(13,202,240);
-}
 
 .frount-end{
     margin-left:90px !important;
@@ -96,4 +91,45 @@ a{
 
 .text-1{
     text-align:  right !important;
+}
+
+.end-part{
+    background-image:url(old-stone-gray-concrete-wall-room_88088-848.avif);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:scroll;
+    
+}
+
+.fgfg{
+    display:inline-block;
+    margin-top:150px !important;
+}
+
+.on-bg{
+    background-color: rgba(255,255,255,0.2) !important;
+    z-index: 12;
+}
+
+.input-form-e{
+    width:45% !important;
+}
+
+
+input{
+    background-color: rgba(0,0,0,0.5);
+    outline: none;
+    border: none;
+    color:rgba(248, 247, 247, 0.5);
+}
+
+.masage1{
+    height:150px !important;
+}
+
+
+.top-back{
+    position: fixed;
+    top:90%;
+    left:2%;
 }
